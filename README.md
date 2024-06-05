@@ -1,6 +1,6 @@
 
    <h1 align="center">Hi 👋, I'm Juls</h1>
-   <h3 align="center">A frontend developer with passion to learn webrtc.</h3>
+   <h3 align="center">A frontend developer with passionate to learn backend and focus  on webrtc.</h3>
 
    <h3 align="left">About me</h3>
    <p align="left">
