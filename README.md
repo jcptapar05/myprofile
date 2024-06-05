@@ -6,7 +6,10 @@
    <p align="left">
     I have 4 years of experience.
    </p>
-
+   <p>I'm looking for freelance or WFH job.</p>
+<br />
+   <p>🧠 I'm currently learning webRTC and mobile app.</p>
+   <p>📫 How to reach me? You can contact me via social media. <a href="https://github.com/jcptapar05/">Click here!</a></p>
    <br />
    <h3 align="left">Languages and Tools:</h3>
    
