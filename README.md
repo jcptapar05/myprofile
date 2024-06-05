@@ -4,7 +4,7 @@
 
    <h3 align="left">About me</h3>
    <p align="left">
-    I'm Julius Tapar. I have 4 years of experience. I'm passionate to learn
+    I have 4 years of experience. I'm passionate to learn
     webRTC.
    </p>
 
