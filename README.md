@@ -12,7 +12,7 @@
    <p>📫 How to reach me? You can contact me via social media. <a href="https://github.com/jcptapar05/">Click here!</a></p>
 
 
-   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-git-main-jcptapar05s-projects.vercel.app/)
+   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-one-psi-68.vercel.app/)
       <br />   <br />
    <h3 align="left">Languages and Tools:</h3>
    
