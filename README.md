@@ -1,10 +1,10 @@
 
    <h1 align="center">Hi 👋, I'm Juls</h1>
-   <h3 align="center">A web developer passionate to learn webrtc.</h3>
+   <h3 align="center">A web developer passionate to learn new skills</h3>
 <br />
    <h3 align="left">About me</h3>
    <p align="left">
-    I have 4 years of experience.
+    I have 5 years of experience.
    </p>
    <p>I'm looking for freelance or WFH job.</p>
 <br />
